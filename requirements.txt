@@ -1,0 +1,4 @@
+tensorboard==1.10.0
+tensorflow==1.10.0
+numpy==1.14.5
+tensorflow_hub==0.1.1
