@@ -1,4 +1,6 @@
-tensorboard==1.10.0
 tensorflow==1.10.0
 numpy==1.14.5
-tensorflow_hub==0.1.1
+opencv-python==3.4.3.18
+keras==2.1.6
+flask==1.0.2
+flask-cors==3.0.6
